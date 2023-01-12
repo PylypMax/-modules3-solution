@@ -1,0 +1,64 @@
+body {
+    font-size: 16px;
+    color: white;
+    background-color: rgb(96, 87, 177);
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: blanchedalmond;
+    border-radius: 0;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.navbar-brand {
+    margin: 10px 15px 10px 0;
+}
+
+.navbar-brand h1 {
+    color: rgb(96, 87, 177);
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid rgb(96, 87, 177);
+}
+
+
+#nav-list a:hover {
+    background-color: rgb(218, 196, 163);
+    color: rgb(96, 87, 177);
+    font-weight: bold;
+}
+#nav-list a {
+    background-color: blanchedalmond;
+    text-align: center;
+    color: rgb(96, 87, 177);
+    font-weight: bold;
+}
+
+#main-header{
+    padding-bottom: 30px;
+  }
+  
+#block{
+    background-color: blanchedalmond;
+    margin-bottom: 20px;
+    color: rgb(49, 44, 94);
+}
+  
+h4{
+    font-weight: bold;
+}
+
+  
